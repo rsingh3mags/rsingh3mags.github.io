@@ -1,6 +1,6 @@
 # Terms of use
 
-_Last updated 7 November 2026_
+_Last updated 14 November 2026_
 
 These terms are the agreement between you and Rishi Singh for using Dearloop. Please read them; they're short.
 
@@ -22,11 +22,11 @@ Stardust is a playful, in-app reward with no money value. It can't be bought, so
 
 ## Dearloop Plus
 
-Plus is an optional subscription sold through the App Store or Google Play. Prices are shown before you buy. It renews automatically until you cancel in your store account settings at least 24 hours before the current period ends. Refunds are handled by Apple or Google under their policies. While you're paired, your Plus also covers your partner; if you unpair, it stays with whoever pays. Plus items step aside if Plus ends, and nothing you made is deleted.
+Plus is an optional subscription sold through the App Store or Google Play. Prices are shown before you buy. It renews automatically until you cancel in your store account settings at least 24 hours before the current period ends. If the store offers you a free trial, the offer says how long it lasts and what you'll pay after it; the subscription begins when the trial ends unless you cancel in your store account settings at least 24 hours before the trial ends. Dearloop reminds you in the app two days before (and with a notification if you allow them). Refunds are handled by Apple or Google under their policies. One subscription covers one world, the one the person who pays chooses: both people in that world have Plus there, and the payer's other worlds are on Free unless they have their own Plus. The payer can move it to another of their worlds (after a move, it stays for 7 days before it can move again). If you unpair, it stays with whoever pays and moves to their main world. Plus items step aside if Plus ends, and nothing you made is deleted.
 
 ## Optional videos
 
-In the free version you can choose to watch a short video to get Stardust or a pet snack. The reward is given once our server has confirmed the video with Google, only for videos watched to the end, and there's a daily limit we may change. Videos are never required to talk to your partner. Dearloop Plus has no videos.
+In the free version you can choose to watch a short video to get Stardust, a pet snack or soap, or more Talk tonight cards for the day (the free version includes a number of cards each day). The reward is given once our server has confirmed the video with Google, only for videos watched to the end, and there are limits against automated use that we may change. Test versions of the app show Google's test videos. Videos are never required to talk to your partner. Dearloop Plus has no videos.
 
 ## The service
 
