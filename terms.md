@@ -1,6 +1,6 @@
 # Terms of use
 
-_Last updated 14 November 2026_
+_Last updated 16 November 2026_
 
 These terms are the agreement between you and Rishi Singh for using Dearloop. Please read them; they're short.
 
@@ -26,7 +26,7 @@ Plus is an optional subscription sold through the App Store or Google Play. Pric
 
 ## Optional videos
 
-In the free version you can choose to watch a short video to get Stardust, a pet snack or soap, or more Talk tonight cards for the day (the free version includes a number of cards each day). The reward is given once our server has confirmed the video with Google, only for videos watched to the end, and there are limits against automated use that we may change. Test versions of the app show Google's test videos. Videos are never required to talk to your partner. Dearloop Plus has no videos.
+In the free version you can choose to watch a short video to get Stardust, a pet snack or soap, or more question cards for the day (the free version includes a number of question cards each day, shared by every deck). The reward is given once our server has confirmed the video with Google, only for videos watched to the end, and there are limits against automated use that we may change. Test versions of the app show Google's test videos. Videos are never required to talk to your partner. Dearloop Plus never needs a video: it has unlimited question cards and no ads unless you choose to watch one, for the same rewards.
 
 ## The service
 

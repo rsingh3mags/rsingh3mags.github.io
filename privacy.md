@@ -1,8 +1,8 @@
 # Privacy policy
 
-_Last updated 12 November 2026_
+_Last updated 16 November 2026_
 
-Dearloop is a private space for two people. This policy explains what we collect, why, where it lives and the choices you have. In short: your shared space is visible only to you and your partner, we never sell your data or share what you write, the free version shows optional short videos from Google AdMob that you choose to watch for rewards (Dearloop Plus has no ads), and you can export or delete your data at any time.
+Dearloop is a private space for two people. This policy explains what we collect, why, where it lives and the choices you have. In short: your shared space is visible only to you and your partner, we never sell your data or share what you write, Dearloop shows optional short videos from Google AdMob that you choose to watch for rewards (Dearloop Plus never needs them, and shows none unless you choose to watch one), and you can export or delete your data at any time.
 
 ## Who we are
 
@@ -26,7 +26,7 @@ So Dearloop opens quickly, your phone keeps a copy of what draws your worlds: yo
 
 ## Ads (free version only)
 
-The free version of Dearloop has optional rewarded videos: you tap a "Watch" button to get Stardust, a pet snack or soap, or more conversation cards for the day. They're served by Google AdMob as non-personalised ads, after Google's consent message where the law requires it. There are no banner or pop-up ads, and nothing that helps you talk to your partner is ever behind an ad. When you watch, the Google Mobile Ads SDK collects technical information to show the ad, measure it and prevent fraud, such as your device type, app version, IP address (which suggests a rough location), how you interact with the ad, diagnostics and device identifiers, plus a one-time code so our server can confirm the reward. Google processes this under its own privacy policy (policies.google.com/privacy). We don't send Google your name, email, account id or anything you write, we don't use your advertising ID (it is switched off in our Android app), and we don't track you across other companies' apps. If you never tap a Watch button, the ads SDK never starts. Dearloop Plus has no ads.
+The free version of Dearloop has optional rewarded videos: you tap a "Watch" button to get Stardust, a pet snack or soap, or more conversation cards for the day. They're served by Google AdMob as non-personalised ads, after Google's consent message where the law requires it. There are no banner or pop-up ads, and nothing that helps you talk to your partner is ever behind an ad. When you watch, the Google Mobile Ads SDK collects technical information to show the ad, measure it and prevent fraud, such as your device type, app version, IP address (which suggests a rough location), how you interact with the ad, diagnostics and device identifiers, plus a one-time code so our server can confirm the reward. Google processes this under its own privacy policy (policies.google.com/privacy). We don't send Google your name, email, account id or anything you write, we don't use your advertising ID (it is switched off in our Android app), and we don't track you across other companies' apps. If you never tap a Watch button, the ads SDK never starts. Dearloop Plus never needs a video and shows none unless you choose to watch one.
 
 ## Who can see your content
 
