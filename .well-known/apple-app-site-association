@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "4QKRMVHXLJ.app.dearloop"
+        ],
+        "components": [
+          {
+            "/": "/join/*",
+            "comment": "Invite links"
+          }
+        ],
+        "appID": "4QKRMVHXLJ.app.dearloop",
+        "paths": [
+          "/join/*"
+        ]
+      }
+    ]
+  }
+}
